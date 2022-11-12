@@ -1,1 +1,1 @@
-# LCD 16X2
+# Interfacing with Character LCD using I2C
