@@ -1,1 +1,1 @@
-# LCD 16X2
+# Interfacing with piezo buzzer
