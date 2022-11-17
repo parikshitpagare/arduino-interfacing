@@ -10,15 +10,11 @@ This repository is a collection of code for interfacing Arduino with modules, se
 
 ### Displays
 
-
-- [LCD Character]https://github.com/parikshitpagare/arduino-interfacing/tree/main/displays/lcd%20character)
-
+- [LCD Character](https://github.com/parikshitpagare/arduino-interfacing/tree/main/displays/lcd%20character)
 
 ### I/O
 
- 
 ### Motors
-
 
 ### Wireless
 
