@@ -4,6 +4,7 @@ Interfacing Arduino with Character LCD.
 
 # Demo
 
+https://youtu.be/fel2nJo7ZUg
 
 # Requirements
 
